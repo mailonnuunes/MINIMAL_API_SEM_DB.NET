@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5HnUpT3V4AvQPR6rlJVc1Q1jiAAp667Y1Ygcmd+oL6tgUEecPhaF4EwXcYL39/J1HeGTDstih54N8UMfD9glQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mailo\\OneDrive\\Documentos\\.net\\FiapStoreMinimalApi\\FiapStoreMinimalApi\\FiapStoreMinimalApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mailo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\mailo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mailo\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\mailo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\mailo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\mailo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\mailo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
